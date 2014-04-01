@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/ambidextrous/Coding/Python'
 let g:netrw_dirhist_2='/Users/ambidextrous/Coding/Python/EvolAlg'
 let g:netrw_dirhist_3='/Users/ambidextrous/Coding/WebData/Ex_Files_WorkingDataWeb/Exercise Files/Chapter 5/05_02'
+let g:netrw_dirhist_4='/Users/ambidextrous/Coding/Ruby/NewProgrammerSurvMan'
