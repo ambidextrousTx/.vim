@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/ambidextrous/Coding/RGrep-Python/src'
 let g:netrw_dirhist_2='/Users/ambidextrous/Coding/GoLang/hello-world'
 let g:netrw_dirhist_3='/Users/ambidextrous/Coding/Ant/thirdbuild/build'
 let g:netrw_dirhist_4='/Users/ambidextrous/Coding/Ruby/EverydayScriptingRuby/code/affinity-trip'
+let g:netrw_dirhist_5='/Users/ambidextrous/Documents'
