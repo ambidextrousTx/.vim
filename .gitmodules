@@ -61,3 +61,6 @@
 [submodule "bundle/elm"]
 	path = bundle/elm
 	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "pack/bundle/start/vim-projectionist"]
+	path = pack/bundle/start/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
