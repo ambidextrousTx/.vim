@@ -64,3 +64,6 @@
 [submodule "pack/bundle/start/vim-projectionist"]
 	path = pack/bundle/start/vim-projectionist
 	url = https://github.com/tpope/vim-projectionist.git
+[submodule "pack/bundle/start/vim-test"]
+	path = pack/bundle/start/vim-test
+	url = https://github.com/janko-m/vim-test.git
