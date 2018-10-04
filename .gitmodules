@@ -67,3 +67,6 @@
 [submodule "pack/bundle/start/vim-test"]
 	path = pack/bundle/start/vim-test
 	url = https://github.com/janko-m/vim-test.git
+[submodule "bundle/gruvbox"]
+	path = bundle/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
